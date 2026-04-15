@@ -15,8 +15,8 @@ These files are not published on the Ofwat website but are provided here to impr
 
 ## Relationship to published models
 
-The primary risk models (Excel) referenced in the PR24 Outcomes Risk Modelling Guide are published on the Ofwat Website. 
-https://www.ofwat.gov.uk/regulated-companies/price-review/2024-price-review/final-determinations-models/#outcomesmodels 
+The primary risk models (excel) referenced in the PR24 Outcomes Risk Modelling Guide are published on the Ofwat Website. 
+https://www.ofwat.gov.uk/regulated-companies/price-review/2024-price-review/final-determinations-models/#outcomesmodels. 
 This repository complements those published models by providing supporting code and supplementary files used in the modelling process.
 
 Unless otherwise stated, files in this repository reflect the **PR24 Final Determinations** position. Users may adapt the code or files if they wish to test alternative assumptions or scenarios.
